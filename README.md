@@ -24,14 +24,25 @@
 ## Install
 
 ```sh
-npm install
+npm install value-randomer
 ```
 
 ## Usage
 
 ```sh
-ValueRandomer.randomInt(min, max)
+<Randomer>.randomInt(min, max)
 ```
+Returns random integer from min to max. **Both arguments are required!**
+
+```sh
+<Randomer>.randomHex(showHash?)
+```
+Generates random HEX number. showHash is optional argument. When showHash value is true, returns for example: `#7289da`, when false or not set `7289da`
+
+```sh
+<Randomer>.uuid()
+```
+Returns new generated UUID
 
 ## Run tests
 
