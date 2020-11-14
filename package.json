@@ -1,0 +1,16 @@
+{
+  "name": "value-randomer",
+  "version": "1.0.6",
+  "description": "Randomize values! Generate some cool random values, from random integer to UUID!",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["random", "int", "string", "number", "randomer", "randomizer", "uuid", "uuid-generator"],
+  "author": "xmuffionex",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/xMuffionex/value-randomer"
+  },
+  "readme": "https://github.com/xMuffionex/value-randomer#readme"
+}
