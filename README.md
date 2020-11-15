@@ -44,11 +44,11 @@ Generates random HEX number. showHash is optional argument. When showHash value 
 ```
 Returns new generated UUID
 
-## Run tests
-
+**NEW!**
 ```sh
-npm run test
+<Randomer>.randomCharset(lenght)
 ```
+Returns random charset, lenght argument is optional. Default: `5`
 
 ## Author
 
