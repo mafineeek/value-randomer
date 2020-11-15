@@ -15,6 +15,7 @@
   <a href="https://twitter.com/muffionex" target="_blank">
     <img alt="Twitter: muffionex" src="https://img.shields.io/twitter/follow/muffionex.svg?style=social" />
   </a>
+  <img alt="Downloads" src="https://img.shields.io/npm/dt/value-radnomer.svg?maxAge=3600" />
 </p>
 
 > Best module to randomize some cool stuff! From random integers to uuid generator!
